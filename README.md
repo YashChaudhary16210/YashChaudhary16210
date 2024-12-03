@@ -41,5 +41,5 @@ Feel free to reach out if you'd like to:
 ---
 
 ### 📫 Contact Me  
-- **Email**: [YashChaudhary16210@gmail.com] 
-- **LinkedIn**: [(https://www.linkedin.com/in/yashchaudhary67/)]  
+- **Email**: YashChaudhary16210@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/yashchaudhary67/ 
