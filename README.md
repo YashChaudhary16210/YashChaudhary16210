@@ -47,25 +47,13 @@ Feel free to reach out if you'd like to:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=YashChaudhary16210&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashChaudhary16210&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📅 Commit Activity  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 📂 Featured Repositories  
-<p align="center">
-  <a href="https://github.com/your-username/repository-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-1&theme=radical" alt="Repository 1" />
-  </a>
-  <a href="https://github.com/your-username/repository-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repository-2&theme=radical" alt="Repository 2" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashChaudhary16210&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
