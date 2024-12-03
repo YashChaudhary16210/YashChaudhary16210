@@ -36,8 +36,6 @@ Feel free to reach out if you'd like to:
 - Discuss potential partnerships and collaborations.  
 - Share tips or insights about the tech industry.  
 
-> 💡 Welcome to my portfolio—let’s connect and innovate together! 🚀  
-
 ---
 
 ### 📫 Contact Me  
