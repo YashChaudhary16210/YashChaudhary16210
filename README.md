@@ -48,7 +48,6 @@ Feel free to reach out if you'd like to:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashChaudhary16210&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashChaudhary16210&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📅 Commit Activity  
