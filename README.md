@@ -1,4 +1,4 @@
-# Hi there, I’m Yash! 👋  
+# Hi there, I’m Yash Chaudhary! 👋  
 🎓 **BCA Student | UPES Dehradun**  
 🌍 **Passionate Blogger | Tech Explorer**  
 
