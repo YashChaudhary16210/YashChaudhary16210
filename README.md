@@ -44,7 +44,7 @@ Feel free to reach out if you'd like to:
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashChaudhary16210&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
